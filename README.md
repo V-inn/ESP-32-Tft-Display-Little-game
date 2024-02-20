@@ -1,3 +1,10 @@
+## Libraries used:
+**SPI Arduino Library**;
+[**Bodmer's TFT_eSPI library**](https://github.com/Bodmer/TFT_eSPI);
+[**Bodmer's TJpg_Decoder library**](https://github.com/Bodmer/TJpg_Decoder);
+[**Custom buzzer library**](https://github.com/V-inn/AdvBuzzer).
+
+
 # A bit about the project
 
 This project revolves around the use of a 3.5 Inch ILI9486 Tft_Display i bought while i was on vacation,
